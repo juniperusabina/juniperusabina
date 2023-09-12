@@ -1,4 +1,4 @@
-### Hi there, I'm Arina aka juniperusabina👋
+## Hi there, I'm Arina aka juniperusabina👋
 Data Scientist from Irkutsk, Russia
 
 ### Languages and tools
