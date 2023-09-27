@@ -1,6 +1,9 @@
 ## Hi there, I'm Arina aka juniperusabina👋
 *Data Scientist from Irkutsk, Russia*
 
+I'm intrrested in Computer Vision and NLP.
+Student of INRTU.
+
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="python3" width="40" height="40"/>&nbsp;
