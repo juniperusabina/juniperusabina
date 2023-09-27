@@ -1,6 +1,5 @@
 ## Hi there, I'm Arina aka juniperusabina👋
 *Data Scientist from Irkutsk, Russia*
-
 <br>I'm currently studying CV and NLP.
 
 ### Languages and tools
