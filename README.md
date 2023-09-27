@@ -1,8 +1,7 @@
 ## Hi there, I'm Arina aka juniperusabina👋
 *Data Scientist from Irkutsk, Russia*
 
-I'm intrrested in Computer Vision and NLP.
-Student of INRTU.
+<br>I'm currently studying CV and NLP.
 
 ### Languages and tools
 
